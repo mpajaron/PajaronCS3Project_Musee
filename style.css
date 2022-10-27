@@ -1,0 +1,23 @@
+div.art{
+	background-color:#2F3267;
+	height:150px;
+	width:300px;
+	float:left;
+	margin: 100px;
+	position: relative;
+	left:110px;
+}
+
+.navbar{
+	text-decoration:none;
+	float: right;
+	margin-right:15px;
+	color:white;
+}
+
+.spacing{
+	position:relative;
+	left:425px;
+	font-size:50;
+	
+}
